@@ -1,0 +1,4 @@
+com\ecodeup\dao\ProductoDAO.class
+com\ecodeup\controller\ProductoController.class
+com\ecodeup\conexion\Conexion.class
+com\ecodeup\model\Producto.class
